@@ -6,9 +6,11 @@
 let message = "Hallo welt"
 
 // Vergleich
-console.log(true == true)
-console.log(true != true)
+console.log(true == 1)
+console.log(true != 1)
 
 // Strikter Vergleich
-console.log(true === true)
-console.log(true !== true) 
+console.log(true === 1)
+console.log(true !== 1) 
+
+//problem 
