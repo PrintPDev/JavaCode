@@ -21,3 +21,5 @@ if(students.indexOf("Rang")=== -1)
 {
     console.log("Nicht Rang vorhanden")
 }
+
+console.log("Minecraft")
